@@ -1,6 +1,6 @@
 body {
   font-family: Verdana;
-  background-color: #5ccbdf;
+  background-color: #EEF0E5;
   background-size: cover;
   background-position: center;
 }
@@ -32,20 +32,20 @@ body {
 
 .text-isi h1 {
   margin: 0;
-  color: #ffff;
+  color: #333;
   font-size: 28px;
   font-weight: bold;
 }
 
 .text-isi h2 {
   margin: 0;
-  color: #ffff;
+  color: #333;
   font-size: 22px;
   font-weight: bold;
 }
 
 .text-isi p{
-  color: #ffff;
+  color: #333;
 }
 
 .image-nov img {
@@ -60,7 +60,7 @@ body {
 }
 
 .bawah-home p{
-  color: #ffff;
+  color: #333;
 }
 
 .button-home {
@@ -68,7 +68,7 @@ body {
   max-width: 300px;
   margin: 0 auto;
   padding: 10px;
-  background-color: #4c91b1;
+  background-color: #2eada7;
   color: #fff;
   border: none;
   border-radius: 50px;
